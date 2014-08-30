@@ -8,7 +8,7 @@ use Data::Dumper;
 #
 # Extracts patterns from modulus maps over the Fibonacci sequence
 #
-# By Dann Stayskal: <dann@stayskal.com> and <http://dann.stayskal.com/>
+# By Danne Stayskal: <danne@stayskal.com> and <http://danne.stayskal.com/>
 # Released under MIT license.
 #
 # Structure:
